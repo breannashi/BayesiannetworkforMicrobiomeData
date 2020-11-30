@@ -2698,20 +2698,20 @@ input, select, textarea {
 				padding-left: 0;
 			}
 		
-		.feature.middle {
-			text-align: middle;
+		.feature.center {
+			text-align: center;
 		}
 
 			.feature.middle .image {
-				float: middle;
+				float: center;
 			}
 
-				.feature.middle .image img {
+				.feature.center .image img {
 					left: 0;
 					top: 0;
 				}
 
-			.feature.middle .content {
+			.feature.center .content {
 				padding-left: 0;
 			}
 		
