@@ -2697,7 +2697,24 @@ input, select, textarea {
 			.feature.right .content {
 				padding-left: 0;
 			}
+		
+		.feature.middle {
+			text-align: middle;
+		}
 
+			.feature.middle .image {
+				float: middle;
+			}
+
+				.feature.middle .image img {
+					left: 0;
+					top: 0;
+				}
+
+			.feature.middle .content {
+				padding-left: 0;
+			}
+		
 		.feature.long .content {
 			padding-top: 0;
 		}
